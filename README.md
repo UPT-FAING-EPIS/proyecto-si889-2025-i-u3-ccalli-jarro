@@ -10,7 +10,7 @@
 
 ## 📌 Descripción General del Proyecto
 
-El **PWASP SCANNER** es un sistema web diseñado para detectar **vulnerabilidades en aplicaciones web** basándose en los estándares del **OWASP Top 10**, facilitando el análisis de seguridad en sitios de pequeñas y medianas empresas. El sistema permite escanear sitios ingresando una URL, autenticarse si es necesario, identificar vulnerabilidades como XSS, SQLi, CSRF, etc., y generar reportes técnicos detallados en múltiples formatos.
+El **web guard** es un sistema web diseñado para detectar **vulnerabilidades en aplicaciones web** basándose en los estándares del **OWASP Top 10**, facilitando el análisis de seguridad en sitios de pequeñas y medianas empresas. El sistema permite escanear sitios ingresando una URL, autenticarse si es necesario, identificar vulnerabilidades como XSS, SQLi, CSRF, etc., y generar reportes técnicos detallados en múltiples formatos.
 
 > Este proyecto nace de la necesidad creciente de automatizar procesos de evaluación de seguridad, sin depender de costosas auditorías manuales o herramientas complejas.
 
